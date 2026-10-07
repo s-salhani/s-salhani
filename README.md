@@ -12,7 +12,7 @@ What makes my profile unique is my background: I hold a Bachelor's degree in **I
 - 📅 **Looking for:** A short summer internship in 2027 and a master thesis collaboration in spring 2028.
 
 ### 🛠️ Tech Stack & Skills (In Progress)
-- **Programming:** Python, R🐍
+- **Programming:** Python🐍, R
 - **Core Math:** Statistics, Linear Algebra, Discrete Mathematics 📊
 - **Soft Skills:** Cross-cultural communication, corporate strategy, stakeholder management 🌍
 
